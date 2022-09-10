@@ -1,5 +1,5 @@
 
-# Buildind a Invoice PDF
+# Building a Invoice PDF
 
 This repository shows how to create a pretty and simple PDF using React-Pdf in a project created with CRA.
 
